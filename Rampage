@@ -1,14 +1,21 @@
 esp {user}
+
 esp all
+
 fly
+
 flyspeed {number}
+
 goto
+
 triggerbot
+
 ss {number} <--- (Sprint Speed)
+
 gun anims (shit like pawel and some custom grips)
 _______________________________________________________________________________________________________
                                         [[ FOR GUN ANIMS ]]                                           |                                      
-                                                                           	                      |					                                                                                                                                                                                          
+                                                                           	                          |					                                                                                                                                                                                          
 pawel animation (holds shotty, glock in a position similar to pawel                                   |                 
                                                                                                       |
 Shotty Rifle (holds shotty like an assault rifle)                                                     |
@@ -18,5 +25,9 @@ Shotty Hold (grip by zxciaz)                                                    
 [[ GUN ANIM COMMANDS END HERE. MORE WILL COME AS WE DEVELOP      ]]                                   |
 ______________________________________________________________________________________________________|
 hotkey {command} {letter}
+
 grippos
+
 noclip (key will be X to toggle and untoggle)
+
+blink
